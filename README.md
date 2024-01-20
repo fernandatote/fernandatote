@@ -8,4 +8,5 @@ My core skills include React, JavaScript/TypeScript, Next.js, HTML/CSS, UI/UX, r
 
 - 👀 I’m currently looking for new opportunities
 - 📧 Contact me at [ftoledo.work@gmail.com](mailto:ftoledo.work@gmail.com)
-- 💻 Learn more about my experience at [LinkedIn](https://www.linkedin.com/in/toledofernanda/)
+- 👤 Learn more about my experience at [LinkedIn](https://www.linkedin.com/in/toledofernanda/)
+- 💻 Check my portfolio at [fernandatoledo.dev](https://fernandatoledo.dev/)
